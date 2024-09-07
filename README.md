@@ -4,4 +4,4 @@
 
 - **Faculdade:** Fatec Ogari de Castro Pacheco (Itapira)
 - **Curso:** Desenvolvimento de Software Multiplataforma
-- **Aluno:** [@matheus-besse](https://github.com/matheus-besse)
+- **Aluno:** Matheus Besse - Perfil do Github: [@matheus-besse](https://github.com/matheus-besse)
